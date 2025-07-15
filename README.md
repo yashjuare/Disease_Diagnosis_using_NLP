@@ -1,1 +1,1 @@
-# Disease_Diagnosis_using_NLP
+# Disease Diagnosis using NLP
